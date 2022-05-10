@@ -4,10 +4,16 @@ stored in LAPTOP-CG2SCNUS C:\Users\h19sl\Documents\2javaProjects\JustChecking\ex
 IMAGES stored in C:\Users\h19sl\Documents\2javaProjects\JustChecking\extraIMGfilesJustChecking
 
 
-===   7:34 AM 5/10/2022 ===+++++==============
+==  8:31 AM 5/10/2022 ==++++++++=======
+
+
+====  end of 8:31 AM 5/10/2022 ===+++++++++=======
+===   7:34 AM 5/10/2022 ERROR running HelloHannah.java using JDKbinSetPATH on terminal ===+++++==============
 C:\Program Files\Java\jdk-15.0.2\bin
 See 1bOathDirectoryOfJDKonMyLaptopCG2SCNUS
 C:\Users\h19sl\Documents\2javaProjects\JustChecking\extraIMGfilesJustChecking
+
+
 
 
 
